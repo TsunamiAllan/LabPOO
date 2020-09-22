@@ -1,0 +1,1 @@
+{"lugares":[{"cliente":{"nome":"Allan","telefone":"654321654","pagamento":"Cartão Débito"}},{"cliente":{"nome":"sdfas","telefone":"123123","pagamento":"À vista"}},null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"origem":null,"destino":null}
